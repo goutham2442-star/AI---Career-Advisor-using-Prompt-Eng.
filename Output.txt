@@ -1,0 +1,44 @@
+USER: I am a CSE AIML student. What should I learn?
+AI: AI/ML Path (Medium Level):
+- Learn Python fundamentals and basic statistics
+- Understand data preprocessing and feature engineering
+- Practice model-building using Scikit-learn
+- Explore ML topics like classification, clustering, regression
+- Build small ML projects (spam classifier, house price prediction)
+--------------------------------------------------
+USER: Is data analytics a good career?
+AI: Data Analytics Roadmap:
+- Learn Excel and SQL for data handling
+- Explore Python libraries like Pandas and Matplotlib
+- Practice creating dashboards using Power BI or Tableau
+- Work on small datasets (sales, weather, stock trends)
+- Present dashboards with clear insights
+--------------------------------------------------
+USER: How do I begin with cloud computing?
+AI: Cloud Computing Path:
+- Learn basics of servers, storage, virtualization
+- Understand how AWS EC2, S3, IAM work
+- Learn Docker basics (containers)
+- Deploy a simple website on cloud (free-tier)
+--------------------------------------------------
+USER: I want to improve my resume.
+AI: Resume Tips:
+- Keep it one page and clean
+- Add technical skills clearly
+- Write 2–3 academic or personal projects
+- Highlight courses or certifications you completed
+--------------------------------------------------
+USER: Is cybersecurity a good option?
+AI: Cybersecurity Starting Guide:
+- Learn networking fundamentals (IP, ports, protocols)
+- Understand Linux basics and command line usage
+- Explore beginner labs on TryHackMe
+- Learn the OWASP Top 10 vulnerabilities
+--------------------------------------------------
+USER: I am from ECE. What path can I follow?
+AI: ECE Career Options:
+- Software: Learn Python/Java + DSA
+- Electronics: Embedded systems, IoT, MATLAB basics
+- Consider hybrid roles (IoT, automation engineering)
+- Build small practical projects
+--------------------------------------------------
